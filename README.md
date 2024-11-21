@@ -1,1 +1,1 @@
-This is a website to show receipe
+This is a website to show receipe.
